@@ -19,7 +19,7 @@ As this is used as a workshop in India, the name was adjusted to something in th
 The [appam](https://en.wikipedia.org/wiki/Appam) is a type of thin pancake originating from South India and Sri Lanka.
 It is made with fermented rice batter and coconut milk.
 
-![Appam](docs\images\appam.jpg)
+![Appam](docs/images/appam.jpg)
 
 ## Topics
 

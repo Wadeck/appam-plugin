@@ -29,13 +29,6 @@ THE SOFTWARE.
     <j:out value="${instance.description ?: request.getParameter('description')}" />
   </p>
 
-<!--  instance.description=${instance.description}<br />-->
-<!--  instance.description2=${instance.description ?: request.getParameter('description')}<br />-->
-<!--  req=${req}<br />-->
-<!--  request=${request}<br />-->
-<!--  request.getParameter('filter')=${request.getParameter('filter')}<br />-->
-<!--  request.getParameter('description')=${request.getParameter('description')}<br />-->
-
   <f:entry title="${%Description}" field="description">
     <f:textarea />
 
